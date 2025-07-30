@@ -1,10 +1,16 @@
 body {
-    background: #ff9a00;
+    background: linear-gradient(to right, lightblue, white);
     font-family: Arial, sans-serif;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 h1 {
-    color: darkblue;
+    color: navy;
+    font-size: 50px;
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
